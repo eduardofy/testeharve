@@ -1,1 +1,1 @@
-print("Hello, World! T30")
+print("Olá, mundo!")
